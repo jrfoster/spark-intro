@@ -1,3 +1,4 @@
+.cache
 # use glob syntax.
 syntax: glob
 *.ser
